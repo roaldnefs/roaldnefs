@@ -6,7 +6,7 @@ You can get in touch with me by email at [info@roaldnefs.com](mailto:info@roaldn
 
 ### Blog
 
-My blog is a [collection of articles](https://roaldnefs.com/posts/). Here are the most recent entries:
+In the overview below you will find the most recent [posts](https://roaldnefs.com/posts/) of my [blog](https://roaldnefs.com/), automatically updated by [GitHub Actions](https://github.com/roaldnefs/roaldnefs/actions?query=workflow%3A%22Update+README.md%22).
 
 <!-- BLOG_START -->
 - [Git Branching](https://roaldnefs.com/posts/2020/05/git-branching/) (2020-05-10)
