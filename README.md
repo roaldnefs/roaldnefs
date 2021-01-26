@@ -5,6 +5,32 @@
 - ⚡ Besides contributing to open source I enjoy tinkering with electronics, hardware hacking, and software development in general.
 - 💬 You can get in touch with me by email at [info@roaldnefs.com](mailto:info@roaldnefs.com) ([PGP](https://roaldnefs.com/roaldnefs-2020.asc)), Twitter ([@roaldnefs](https://twitter.com/roaldnefs)), and [LinkedIn](https://www.linkedin.com/in/roaldnefs/).
 
+### Work Experience
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/5047569?s=200&v=4"/>](https://warpnet.nl/)
+
+[**Warpnet**](https://warpnet.nl/) \
+Employment type: Full-time \
+Languages & Frameworks: `Python`, `Django`, `C++`, `JavaScript`, `GoLang` \
+Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint).
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG-gVjZV6mrw/company-logo_200_200/0/1604394679834?e=1619654400&v=beta&t=pW7C6MJAHKXkUYcr0_nL4W6l2xNfX4Jz3o0VjA6qzSM"/>](https://www.kpn.com/)
+
+[**KPN**](https://www.kpn.com/) \
+Employment type: Contract \
+Languages & Frameworks: `Python`, `Ansible`\
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHjgPhHoVWNBw/company-logo_200_200/0/1519898606850?e=1619654400&v=beta&t=be23JiETRntnj_O2ayZXlEtRJbql77D0vD9sBoJBmOk"/>](https://duo.nl/)
+
+[**Dienst Uitvoering Onderwijs (DUO)**](https://duo.nl/) \
+Employment type: Contract \
+Languages & Frameworks: `Python` \
+<br/>
+<br/>
+
 ### Latest Blog Posts
 
 In the overview below you will find the most recent [posts](https://roaldnefs.com/posts/) of my [blog](https://roaldnefs.com/), automatically updated by [GitHub Actions](https://github.com/roaldnefs/roaldnefs/actions?query=workflow%3A%22Update+README.md%22).
