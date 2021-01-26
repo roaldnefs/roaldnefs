@@ -34,17 +34,12 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
 
 ### Latest Blog Posts
-In the overview below you will find the most recent [posts](https://roaldnefs.com/posts/) of my [blog](https://roaldnefs.com/), automatically updated by [GitHub Actions](https://github.com/roaldnefs/roaldnefs/actions?query=workflow%3A%22Update+README.md%22):
+In the overview below you will find the featured [posts](https://roaldnefs.com/posts/) of my [blog](https://roaldnefs.com/), automatically updated by [GitHub Actions](https://github.com/roaldnefs/roaldnefs/actions?query=workflow%3A%22Update+README.md%22):
 
 <!-- BLOG_START -->
 - [How to Automatically Generate Clients for your REST API](https://roaldnefs.com/posts/2020/12/how-to-automatically-generate-clients-for-your-rest-api/) (2020-12-19)
-- [Git Branching](https://roaldnefs.com/posts/2020/05/git-branching/) (2020-05-10)
-- [Getting Started with Git](https://roaldnefs.com/posts/2020/04/getting-started-with-git/) (2020-04-20)
-- [How To Create a Visual Studio Code Extension Pack](https://roaldnefs.com/posts/2020/04/how-to-create-a-visual-studio-code-extension-pack/) (2020-04-17)
 - [Ding Dong Ditch using SDR and Arduino](https://roaldnefs.com/posts/2020/01/ding-dong-ditch-using-sdr-and-arduino/) (2020-01-02)
 - [Hardware Reversing the Sitecom Wireless Router 150N X1](https://roaldnefs.com/posts/2019/12/hardware-reverse-a-wireless-router/) (2019-12-14)
-- [Update YARD Stick One Firmware](https://roaldnefs.com/posts/2019/01/update-yard-stick-one-firmware/) (2019-01-16)
-- [Software Defined Radio on Linux](https://roaldnefs.com/posts/2019/01/software-defined-radio-on-linux/) (2019-01-05)
 <!-- BLOG_END -->
 
 ### Credits
