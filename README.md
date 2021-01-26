@@ -33,7 +33,7 @@ Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` 
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
 
-### Latest Blog Posts
+### Blog Posts
 In the overview below you will find the featured [posts](https://roaldnefs.com/posts/) of my [blog](https://roaldnefs.com/), automatically updated by [GitHub Actions](https://github.com/roaldnefs/roaldnefs/actions?query=workflow%3A%22Update+README.md%22):
 
 <!-- BLOG_START -->

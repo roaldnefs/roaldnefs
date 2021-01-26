@@ -21,10 +21,17 @@ def modify_readme(readme, text, identifier=''):
     return re.sub(f'(?<=<!-- {start_tag} -->).*?(?=<!-- {end_tag} -->)', text, readme, flags=re.DOTALL)
 
 
-def list_posts(feed):
+def list_featured_posts(feed):
+    """
+    List the featured posts from the RSS feed.
+    """
     posts = []
     feed = feedparser.parse(feed)
     for entry in feed.entries:
+        # Check if the post is featured
+        featured = entry.get('featured', 'no')
+        if featured != 'yes':
+            continue
         title = entry['title']
         link = entry['link']
         published = time.strftime('%Y-%m-%d', entry['published_parsed'])
@@ -32,8 +39,12 @@ def list_posts(feed):
     return '\n' + '\n'.join(posts) + '\n'
 
 
-if __name__ == '__main__':
-    posts = list_posts("https://roaldnefs.com/posts/index.xml")
+def main():
+    posts = list_featured_posts("https://roaldnefs.com/posts/index.xml")
     original = open_readme()
     updated = modify_readme(original, posts, identifier='BLOG')
     write_readme(updated)
+
+
+if __name__ == '__main__':
+    main()
