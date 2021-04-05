@@ -9,24 +9,24 @@ In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/5047569?s=200&v=4"/>](https://warpnet.nl/)
 
-[**Warpnet**](https://warpnet.nl/) \
-Employment type: Full-time \
+**Software Engineer (SWE) and Site Reliability Engineer (SRE)** \
+[**Warpnet**](https://warpnet.nl/) • Full-time \
 Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`, `Prometheus` \
-Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint).
+Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG-gVjZV6mrw/company-logo_200_200/0/1604394679834?e=1619654400&v=beta&t=pW7C6MJAHKXkUYcr0_nL4W6l2xNfX4Jz3o0VjA6qzSM"/>](https://www.kpn.com/)
 
-[**KPN**](https://www.kpn.com/) \
-Employment type: Contract \
+**DevOps Engineer** \
+[**KPN**](https://www.kpn.com/) • Contract \
 Languages & Technologies: `RHEL`, `Python`, `Ansible`\
 <br/>
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHjgPhHoVWNBw/company-logo_200_200/0/1519898606850?e=1619654400&v=beta&t=be23JiETRntnj_O2ayZXlEtRJbql77D0vD9sBoJBmOk"/>](https://duo.nl/)
 
-[**Dienst Uitvoering Onderwijs (DUO)**](https://duo.nl/) \
-Employment type: Contract \
+**DevOps Engineer** \
+[**DUO**](https://duo.nl/) • Contract \
 Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` \
 <br/>
 <br/>
