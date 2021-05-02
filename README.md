@@ -23,7 +23,7 @@ Languages & Technologies: `RHEL`, `Python`, `Ansible`\
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHjgPhHoVWNBw/company-logo_200_200/0/1519898606850?e=1619654400&v=beta&t=be23JiETRntnj_O2ayZXlEtRJbql77D0vD9sBoJBmOk"/>](https://duo.nl/)
+[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHjgPhHoVWNBw/company-logo_200_200/0/1519898606850?e=1628121600&v=beta&t=9HsJYd8N41Tp_gE9zDgXRpsLcbsM1PZr62zfeUy699g"/>](https://duo.nl/)
 
 **DevOps Engineer** \
 [**DUO**](https://duo.nl/) • Contract \
