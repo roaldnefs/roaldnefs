@@ -15,7 +15,7 @@ Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `Sa
 Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG-gVjZV6mrw/company-logo_200_200/0/1604394679834?e=1619654400&v=beta&t=pW7C6MJAHKXkUYcr0_nL4W6l2xNfX4Jz3o0VjA6qzSM"/>](https://www.kpn.com/)
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG-gVjZV6mrw/company-logo_200_200/0/1604394679834?e=1628121600&v=beta&t=zE5GVEWZgrkYNjpoQOeVxoUK0yPe6JWdf8NglmFVb_M"/>](https://www.kpn.com/)
 
 **DevOps Engineer** \
 [**KPN**](https://www.kpn.com/) • Contract \
