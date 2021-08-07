@@ -15,7 +15,7 @@ Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `Sa
 Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG-gVjZV6mrw/company-logo_200_200/0/1604394679834?e=1628121600&v=beta&t=zE5GVEWZgrkYNjpoQOeVxoUK0yPe6JWdf8NglmFVb_M"/>](https://www.kpn.com/)
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG-gVjZV6mrw/company-logo_200_200/0/1604394679834?e=1636588800&v=beta&t=vb3CopQ5KEaiwioRV5aYFIemQUw5H3C_ilPmpkQHDX4"/>](https://www.kpn.com/)
 
 **Site Reliability Engineer (SRE)** \
 [**KPN**](https://www.kpn.com/) • Contract \
