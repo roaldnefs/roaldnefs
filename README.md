@@ -2,7 +2,7 @@
 - 🔭 I'm a consultant at [Warpnet B.V.](https://warpnet.nl) with over five years of **SRE** and **DevOps** experience at various companies like [DUO](https://duo.nl/) and [KPN](https://www.kpn.com/).
 - 🌱 I've made several [contributions to open source](https://github.com/roaldnefs), to tools such as [SaltStack](https://github.com/saltstack/salt/pulls?q=is%3Apr+author%3Aroaldnefs), [Prometheus](https://github.com/prometheus/client_golang/pulls?q=is%3Apr+author%3Aroaldnefs), [rfcat](https://github.com/atlas0fd00m/rfcat/pulls?q=is%3Apr+author%3Aroaldnefs) and [many more](https://github.com/roaldnefs).
 - ⚡ Besides contributing to open source I enjoy tinkering with electronics, hardware hacking, and software development in general.
-- 💬 You can get in touch with me by email at [info@roaldnefs.com](mailto:info@roaldnefs.com) ([PGP](https://roaldnefs.com/roaldnefs-2020.asc)), Twitter ([@roaldnefs](https://twitter.com/roaldnefs)), and [LinkedIn](https://www.linkedin.com/in/roaldnefs/).
+- 💬 You can get in touch with me by email at [info@roaldnefs.com](mailto:info@roaldnefs.com) ([PGP](https://roaldnefs.com/key.asc)), Twitter ([@roaldnefs](https://twitter.com/roaldnefs)), and [LinkedIn](https://www.linkedin.com/in/roaldnefs/).
 
 ### Work Experience
 In the overview below you will find my most recent work experience:
