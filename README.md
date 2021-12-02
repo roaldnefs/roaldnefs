@@ -7,20 +7,20 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG-gVjZV6mrw/company-logo_200_200/0/1604394679834?e=1645056000&v=beta&t=0J0Zwtf32kp6uLNdSR0fIN-YCSLVg9PI_LEW_bJCjkk"/>](https://www.kpn.com/)
+
+**Lead Site Reliability Engineer (SRE)** \
+[**KPN**](https://www.kpn.com/) • Contract \
+Languages & Technologies: `RHEL`, `Python`, `Ansible`\
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/5047569?s=200&v=4"/>](https://warpnet.nl/)
 
 **Software Engineer (SWE) and Site Reliability Engineer (SRE)** \
 [**Warpnet**](https://warpnet.nl/) • Full-time \
 Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`, `Prometheus` \
 Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG-gVjZV6mrw/company-logo_200_200/0/1604394679834?e=1645056000&v=beta&t=0J0Zwtf32kp6uLNdSR0fIN-YCSLVg9PI_LEW_bJCjkk"/>](https://www.kpn.com/)
-
-**Site Reliability Engineer (SRE)** \
-[**KPN**](https://www.kpn.com/) • Contract \
-Languages & Technologies: `RHEL`, `Python`, `Ansible`\
-<br/>
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHjgPhHoVWNBw/company-logo_200_200/0/1519898606850?e=1645056000&v=beta&t=FIdiz1Jf44gALWieCgDVEup-pQOk-bbQ7ObgvqiNl4A"/>](https://duo.nl/)
