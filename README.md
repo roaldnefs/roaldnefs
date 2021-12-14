@@ -9,9 +9,9 @@ In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="KPN" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG-gVjZV6mrw/company-logo_200_200/0/1604394679834?e=1645056000&v=beta&t=0J0Zwtf32kp6uLNdSR0fIN-YCSLVg9PI_LEW_bJCjkk"/>](https://www.kpn.com/)
 
-**Lead Site Reliability Engineer (SRE)** \
+**Senior Site Reliability Engineer (SRE)** \
 [**KPN**](https://www.kpn.com/) • Contract \
-Languages & Technologies: `RHEL`, `Python`, `Ansible`\
+Languages & Technologies: `RHEL`, `Python`, `Ansible`, `KSP` \
 <br/>
 <br/>
 
