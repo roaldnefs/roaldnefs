@@ -8,6 +8,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more 
 In the overview below you will find the featured [posts](https://roaldnefs.com/posts/) of my [blog](https://roaldnefs.com/), automatically updated by [GitHub Actions](https://github.com/roaldnefs/roaldnefs/actions?query=workflow%3A%22Update+README.md%22):
 
 <!-- BLOG_START -->
+- [Committing Changes to a Pull Request Branch Created from a Fork](https://roaldnefs.com/posts/2024/01/committing-changes-to-a-pull-request-branch-created-from-a-fork/) (2024-01-03)
 - [Spoofing Microchips used for Animal Identification](https://roaldnefs.com/posts/2022/11/spoofing-microchips-used-for-animal-identification/) (2022-11-30)
 - [How to Automatically Generate Clients for your REST API](https://roaldnefs.com/posts/2020/12/how-to-automatically-generate-clients-for-your-rest-api/) (2020-12-19)
 - [Ding Dong Ditch using SDR and Arduino](https://roaldnefs.com/posts/2020/01/ding-dong-ditch-using-sdr-and-arduino/) (2020-01-02)
