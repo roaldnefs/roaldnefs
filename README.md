@@ -1,4 +1,4 @@
-Hi there 👋 I'm a consultant at [Warpnet](https://warpnet.nl) with over five years of **Security** and **Site Reliability Engineering (SRE)** experience at various companies like [DUO](https://duo.nl/), [KPN](https://www.kpn.com/) and [CJIB](https://www.cjib.nl/).
+Hi there 👋 I'm Chief Technology Officer at [Warpnet](https://warpnet.nl) with over five years of **Security** and **Site Reliability Engineering (SRE)** experience at various companies like [DUO](https://duo.nl/), [KPN](https://www.kpn.com/) and [CJIB](https://www.cjib.nl/).
 
 I've made several [contributions to open source](https://github.com/roaldnefs), to tools such as [SaltStack](https://github.com/saltstack/salt/pulls?q=is%3Apr+author%3Aroaldnefs), [Prometheus](https://github.com/prometheus/client_golang/pulls?q=is%3Apr+author%3Aroaldnefs), [rfcat](https://github.com/atlas0fd00m/rfcat/pulls?q=is%3Apr+author%3Aroaldnefs) and [many more](https://github.com/roaldnefs). Besides contributing to open source I enjoy tinkering with electronics, hardware hacking, and software development in general.
 
